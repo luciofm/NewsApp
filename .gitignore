@@ -1,0 +1,39 @@
+# built application files
+*.apk
+*.ap_
+.DS_Store
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+out/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.metadata
+.project
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Gradle files
+.gradle/
+build/
+
+sappos/src/main/res/values/com_crashlytics_export_strings.xml
+
+sappos-android.iml
+
+*.iml
